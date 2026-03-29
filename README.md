@@ -1,6 +1,13 @@
-//Franz Regir - s86074, Radmir Mullagaliev - s85138
+## Authors
+
+- Franz Regir
+- Radmir Mullagaliev
 
 # PMC-Beleg---4-gewinnt
+
+# 4-Gewinnt (Connect Four)
+
+Dieses Projekt implementiert das klassische Spiel "4 Gewinnt" auf einer 8x8 LED-Matrix mit zwei Spielern.
 
 How-To:
 1. Zwei Spieler setzen jeweils abwechselnd einen Punkt in die Matrix. Spieler 1 leuchtet immer, Spieler 2 blinkt.
